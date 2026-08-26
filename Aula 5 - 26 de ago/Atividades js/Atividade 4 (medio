@@ -1,0 +1,11 @@
+const usuario = "admin";
+const senha = "1234";
+
+let usuarioTentativa = prompt("Informe o Usuario: (senai 1234)");
+let senhaTentativa = prompt("Informe o Senha: (senai senha)");
+
+if (usuario == usuarioTentativa && senha == senhaTentativa) {
+  console.log("Logado com Sucesso");
+} else {
+  console.log("Acesso negado");
+}
