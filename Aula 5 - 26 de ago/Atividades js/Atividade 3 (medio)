@@ -1,5 +1,5 @@
 let valorCompra = Number(
-  prompt("Digite o valor total da compra: (Atividade 9)"),
+  prompt("Digite o valor total da compra: "),
 );
 
 if (valorCompra > 100) {
