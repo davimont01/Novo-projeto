@@ -68,6 +68,7 @@
 // console.log("A soma dos numeros chego em: " + soma)
 
 //DO - WHILE PERMITE CRIAR LOOPS QUE SÃO EXECUTADOS UMA OU MAIS VEZES
+// WHILE repete infinitas se for true
 
 // let repetir = false
 // do{
