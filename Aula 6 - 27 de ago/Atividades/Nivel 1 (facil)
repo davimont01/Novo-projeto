@@ -1,24 +1,4 @@
-let contador = 1
 
-//enquanto meu contador for menor ou igual a 10, continue.
-
-while ( contador <=10 ){
-    console.log("Contagem: " + contador)
-              (1 + 1 = 2)
-    contador = (contador + 1)
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
 }
-
-contador = 2
-
-let tempo = 10
-
-while(tempo > 0){
-
-    console.log(tempo)
-
-//tempo = tempo - 1 Retira 1 do tempo
-
-tempo-- 
-
-}
-console.log("COdigo acabou.")

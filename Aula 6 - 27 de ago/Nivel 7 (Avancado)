@@ -1,9 +1,0 @@
-let numero = prompt("Digite um numero inteiro positivo");
-let soma = 0;
-
-for (let numero = 1; numero <= FileList.length; numero ++){
-let soma = "";
-} console.log("A soma eh?")
-for (let soma = 1; )
-
-

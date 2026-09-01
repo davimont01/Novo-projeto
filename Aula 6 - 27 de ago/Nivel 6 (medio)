@@ -1,0 +1,7 @@
+let tempo = Number(prompt ("Digite um numero inteiro:"))
+
+while (tempo > 0){
+    console.log(tempo)
+    tempo -- 
+}
+console.log("Fim.")
