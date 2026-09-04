@@ -11,3 +11,4 @@ if (isNaN(numero) || numero <= 0) {
     }
     console.log(`Saída: ${soma}`);
 }
+

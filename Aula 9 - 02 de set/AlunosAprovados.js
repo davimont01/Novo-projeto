@@ -6,3 +6,7 @@ const alunos = [
     {nome: "Erick 2", nota: 6},
     {nome: "Mara", nota: 5}
 ]
+
+for (const chave in alunos){
+
+}
